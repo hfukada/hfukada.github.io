@@ -2,7 +2,7 @@ title: Hiroshi Fukada
 description: Hiroshi Fukada.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://fukada.us" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fukada.us" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 analytics: UA-122086567-1
@@ -10,7 +10,6 @@ analytics: UA-122086567-1
 author: Hiroshi Fukada
 author-img: me_blur.jpg # add your photo
 about-author: Developer, Classifier of sandwiches, and flips toilet paper in other people's houses.
-social-twitter: h0023430202
 social-github: hfukada # add your Github handle
 social-linkedin: hiroshi-fukada-bab34065
 social-email: hiroshi@fukada.us
